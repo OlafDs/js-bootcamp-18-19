@@ -7,25 +7,25 @@ labels: 'week-0, bt-1, week-0-repository'
 
 # My Introduction
 
-*A small heads up before you begin typing, never mention your name in combination with your HvA student number in public.*
+Olaf - Hardworking CMD student that wants to be the best
 
 ## Name
-`Add your name here`
+Olaf Driessen
 
 ## Class
-`Add your class here`
+FDMCI_TECH 3
 
 ## About me
-`Write something about yourself`
+My name is Olaf and i live in Mijdrecht. I'm 21 years old. I just finished my internship @ NewFountain in Haarlem. I learned alot about WordPress, HTML, SCSS, PHP and a little bit of JavaScript.
 
 ## Goals
-`What are your goals for this class?`
+My goals are that i become more skilled programmer in JavaScript and that i know everything about it and that i can create very beautiful things with JavaScript.
 
 ## Skill level
-`How would you describe you skill level? (e.g. beginner, intermediate, advanced)`
+My skil level is intermediate. I know the basics, but not the advanced stuff
 
 ## GitHub username
-`Add a link to your github page`
+OlafDs
 
 ## GitHub repository
-`Add a link to your bootcamp repository`
+https://github.com/OlafDs/block-tech`
